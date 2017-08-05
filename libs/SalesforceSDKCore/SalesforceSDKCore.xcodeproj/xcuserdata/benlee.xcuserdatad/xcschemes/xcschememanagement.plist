@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Documentation.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>SalesforceSDKCore.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
+		<key>SalesforceSDKCoreStatic.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>22</integer>
+		</dict>
+		<key>SalesforceSDKCoreTestApp.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>23</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2DE48CC518BFAD45008345C7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4F7EB4051BFFC88200768720</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>82D4642319C7C8170006BDFE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE4CE26A1C0E449C009F6029</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CEA8825E1C18F722008D871B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
